@@ -1,0 +1,5 @@
+requirements
+
+The code requires python  and the NumPy library to be installed, so make sure you have NumPy installed before running the code.
+
+pip install numpy
